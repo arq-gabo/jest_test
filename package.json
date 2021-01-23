@@ -1,0 +1,22 @@
+{
+  "name": "platzitest",
+  "version": "1.0.0",
+  "description": "Pruebas Unitarias con jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "test",
+    "unit"
+  ],
+  "author": "José Gabriel Guerra",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
